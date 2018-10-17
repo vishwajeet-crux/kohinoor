@@ -31,7 +31,7 @@
                                 <img src="images/product1.jpg">
                             </div>
                             <div class="team-desc">
-                                <h3>DESI COTTON – AAH-1</h3>
+                                <h3>DESI COTTON - AAH-1</h3>
                                 
                                     <span>Duration- 140 to 150 days.</span><br>
                                     <span>No effect of sucking pests & virus.</span><br>
@@ -60,10 +60,10 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-maze–kmh-3543.png">
+                                <img src="images/hy-maze-kmh-3543.png">
                             </div>
                             <div class="team-desc">
-                                <h3>HY. MAZE – KMH-3543</h3>
+                                <h3>HY. MAZE - KMH-3543</h3>
                                 
                                     <span>Maturity 100 to 110 days.</span><br>
                                     <span>Grain attractive Orange colour.</span><br>
@@ -76,10 +76,10 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-maize–kmh-1509.jpg">
+                                <img src="images/hy-maize-kmh-1509.jpg">
                             </div>
                             <div class="team-desc">
-                                <h3>HY. MAIZE – KMH 1509</h3>
+                                <h3>HY. MAIZE - KMH 1509</h3>
                                 
                                     <span>Maturity 95 to 100 days</span><br>
                                     <span>Bright and orange colour.</span><br>
@@ -92,10 +92,10 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-bajra–khb-7075.jpg">
+                                <img src="images/hy-bajra-khb-7075.jpg">
                             </div>
                             <div class="team-desc">
-                                <h3>HY-BAJRA–KHB-7075</h3>
+                                <h3>HY-BAJRA-KHB-7075</h3>
                                 
                                     <span>Maturity 80 to 85 days.</span><br>
                                     <span>Plant height 8 to 9 feet.</span><br>
@@ -108,10 +108,10 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-bajra–khb-7777.jpg">
+                                <img src="images/hy-bajra-khb-7777.jpg">
                             </div>
                             <div class="team-desc">
-                                <h3>HY. BAJRA – KHB-7777</h3>
+                                <h3>HY. BAJRA - KHB-7777</h3>
                                 
                                     <span>Maturity 75 to 80 days.</span><br>
                                     <span>Strong stem and Plant height 7 to 8 feet.</span><br>
@@ -124,10 +124,10 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-paddy–kph-2535.jpg">
+                                <img src="images/hy-paddy-kph-2535.jpg">
                             </div>
                             <div class="team-desc">
-                                <h3>HY. PADDY – KPH-2535</h3>
+                                <h3>HY. PADDY - KPH-2535</h3>
                                 
                                     <span>Plant height (cm) 110 to 115</span><br>
                                     <span>Strong plant and 22-25 tillers per plant.</span><br>
@@ -157,10 +157,10 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/research-mustard–kms-90.jpg">
+                                <img src="images/research-mustard-kms-90.jpg">
                             </div>
                             <div class="team-desc">
-                                <h3>RESEARCH MUSTARD – KMS-90</h3>
+                                <h3>RESEARCH MUSTARD - KMS-90</h3>
                                 
                                     <span>Maturity 130 to 140 days.</span><br>
                                     <span>Plant height 5 to 6 feet.</span><br>
@@ -173,10 +173,10 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/research-mustard–kms-92.jpg">
+                                <img src="images/research-mustard-kms-92.jpg">
                             </div>
                             <div class="team-desc">
-                                <h3>RESEARCH MUSTARD – KMS-92</h3>
+                                <h3>RESEARCH MUSTARD - KMS-92</h3>
                                 
                                     <span>Maturity 120 to 130 days.</span><br>
                                     <span>Plant height 4 to 5 feet.</span><br>
@@ -261,10 +261,10 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-watermelon–slice-033.jpg">
+                                <img src="images/hy-watermelon-slice-033.jpg">
                             </div>
                             <div class="team-desc">
-                                <h3>HY. WATERMELON – SLICE-033</h3>
+                                <h3>HY. WATERMELON - SLICE-033</h3>
                                 
                                     <span>Fruit weight(kg) 4-5.</span><br>
                                     <span>Fruit Shape - Oval Type.</span><br>
@@ -277,10 +277,10 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-watermelon–black-max.jpg">
+                                <img src="images/hy-watermelon-black-max.jpg">
                             </div>
                             <div class="team-desc">
-                                <h3>HY. WATERMELON – BLACK MAX</h3>
+                                <h3>HY. WATERMELON - BLACK MAX</h3>
                                 
                                     <span>Fruit weight (kg) 6-8.</span><br>
                                     <span>Colour- Blackish Green, Round fruits.</span><br>
@@ -309,10 +309,10 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-pumpkin– kph-708.jpg">
+                                <img src="images/hy-pumpkin- kph-708.jpg">
                             </div>
                             <div class="team-desc">
-                                <h3>HY. PUMPKIN – KPH-708</h3>
+                                <h3>HY. PUMPKIN - KPH-708</h3>
                                 
                                     <span>First Harvest 40 to 45 days.</span><br>
                                     <span>Fruit shape flat round</span><br>

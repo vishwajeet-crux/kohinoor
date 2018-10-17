@@ -156,7 +156,7 @@
                             </div>
                             <div class="portfolio-description">
                                 <a href="product.php">
-                                    <h3>DESI COTTON – AAH-1</h3>
+                                    <h3>DESI COTTON - AAH-1</h3>
                             </div>
                         </div>
                     </div>
@@ -180,11 +180,11 @@
                     <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="#"><img src="images/hy-bajra–khb-7777.jpg" alt=""></a>
+                                <a href="#"><img src="images/hy-bajra-khb-7777.jpg" alt=""></a>
                             </div>
                             <div class="portfolio-description">
                                 <a href="product.php">
-                                    <h3>HY. BAJRA – KHB-7777</h3>
+                                    <h3>HY. BAJRA - KHB-7777</h3>
                             </div>
                         </div>
                     </div>
@@ -194,11 +194,11 @@
                     <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="#"><img src="images/hy-watermelon–slice-033.jpg" alt=""></a>
+                                <a href="#"><img src="images/hy-watermelon-slice-033.jpg" alt=""></a>
                             </div>
                             <div class="portfolio-description">
                                 <a href="product.php">
-                                    <h3>HY. WATERMELON – SLICE-033</h3>
+                                    <h3>HY. WATERMELON - SLICE-033</h3>
                             </div>
                         </div>
                     </div>
@@ -208,11 +208,11 @@
                     <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="#"><img src="images/research-mustard–kms-90.jpg" alt=""></a>
+                                <a href="#"><img src="images/research-mustard-kms-90.jpg" alt=""></a>
                             </div>
                             <div class="portfolio-description">
                                 <a href="product.php">
-                                    <h3>RESEARCH MUSTARD – KMS-90</h3>
+                                    <h3>RESEARCH MUSTARD - KMS-90</h3>
                             </div>
                         </div>
                     </div>
@@ -236,11 +236,11 @@
                     <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="#"><img src="images/research-mustard–kms-92.jpg" alt=""></a>
+                                <a href="#"><img src="images/research-mustard-kms-92.jpg" alt=""></a>
                             </div>
                             <div class="portfolio-description">
                                 <a href="product.php">
-                                    <h3>RESEARCH MUSTARD – KMS-92</h3>
+                                    <h3>RESEARCH MUSTARD - KMS-92</h3>
                             </div>
                         </div>
                     </div>
@@ -264,11 +264,11 @@
                     <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="#"><img src="images/hy-watermelon–black-max.jpg" alt=""></a>
+                                <a href="#"><img src="images/hy-watermelon-black-max.jpg" alt=""></a>
                             </div>
                             <div class="portfolio-description">
                                 <a href="product.php">
-                                    <h3>HY. WATERMELON – BLACK MAX</h3>
+                                    <h3>HY. WATERMELON - BLACK MAX</h3>
                             </div>
                         </div>
                     </div>
