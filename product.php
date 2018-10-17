@@ -290,22 +290,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="team-member">
-                            <div class="team-image">
-                                <img src="images/hy-cucumber-rucy.jpg">
-                            </div>
-                            <div class="team-desc">
-                                <h3>HY. CUCUMBER - RUCY</h3>
-                                
-                                    <span>Fruit weight- Dark Green.</span><br>
-                                    <span>Fruit Length (cm) 20 to 22.</span><br>
-                                    <span>Fruit Colour- Dark Green.</span><br>
-                                    <span>Fruit Weight (gm)- 200 to 300.</span><br>
-                                
-                            </div>
-                        </div>
-                    </div>
+
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
@@ -322,6 +307,23 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-6">
+                        <div class="team-member">
+                            <div class="team-image">
+                                <img src="images/hy-cucumber-rucy.jpg">
+                            </div>
+                            <div class="team-desc">
+                                <h3>HY. CUCUMBER - RUCY</h3>
+                                
+                                    <span>Fruit weight- Dark Green.</span><br>
+                                    <span>Fruit Length (cm) 20 to 22.</span><br>
+                                    <span>Fruit Colour- Dark Green.</span><br>
+                                    <span>Fruit Weight (gm)- 200 to 300.</span><br>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">

@@ -218,19 +218,7 @@
                     </div>
                     <!-- end: portfolio item -->
 
-                     <!-- portfolio item -->
-                    <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
-                        <div class="portfolio-item-wrap">
-                            <div class="portfolio-image">
-                                <a href="#"><img src="images/hy-cucumber-rucy.jpg" alt=""></a>
-                            </div>
-                            <div class="portfolio-description">
-                                <a href="product.php">
-                                    <h3>HY. CUCUMBER - RUCY</h3>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- end: portfolio item -->
+                    
 
                      <!-- portfolio item -->
                     <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
@@ -255,6 +243,20 @@
                             <div class="portfolio-description">
                                 <a href="product.php">
                                     <h3>HY. BHINDI - DEVKI</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end: portfolio item -->
+
+                     <!-- portfolio item -->
+                    <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
+                        <div class="portfolio-item-wrap">
+                            <div class="portfolio-image">
+                                <a href="#"><img src="images/hy-cucumber-rucy.jpg" alt=""></a>
+                            </div>
+                            <div class="portfolio-description">
+                                <a href="product.php">
+                                    <h3>HY. CUCUMBER - RUCY</h3>
                             </div>
                         </div>
                     </div>
