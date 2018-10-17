@@ -60,7 +60,7 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-maze-kmh-3543.png">
+                                <img src="images/hy-maze–kmh-3543.png">
                             </div>
                             <div class="team-desc">
                                 <h3>HY. MAZE - KMH-3543</h3>
@@ -76,7 +76,7 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-maize-kmh-1509.jpg">
+                                <img src="images/hy-maize–kmh-15095.jpg">
                             </div>
                             <div class="team-desc">
                                 <h3>HY. MAIZE - KMH 1509</h3>
@@ -92,7 +92,7 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-bajra-khb-7075.jpg">
+                                <img src="images/hy-bajra–khb-7075.jpg">
                             </div>
                             <div class="team-desc">
                                 <h3>HY-BAJRA-KHB-7075</h3>
@@ -108,7 +108,7 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-bajra-khb-7777.jpg">
+                                <img src="images/hy-bajra–khb-7777.jpg">
                             </div>
                             <div class="team-desc">
                                 <h3>HY. BAJRA - KHB-7777</h3>
@@ -124,7 +124,7 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-paddy-kph-2535.jpg">
+                                <img src="images/hy-paddy–kph-2535.jpg">
                             </div>
                             <div class="team-desc">
                                 <h3>HY. PADDY - KPH-2535</h3>
@@ -157,7 +157,7 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/research-mustard-kms-90.jpg">
+                                <img src="images/research-mustard–kms-90.jpg">
                             </div>
                             <div class="team-desc">
                                 <h3>RESEARCH MUSTARD - KMS-90</h3>
@@ -173,7 +173,7 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/research-mustard-kms-92.jpg">
+                                <img src="images/research-mustard–kms-92.jpg">
                             </div>
                             <div class="team-desc">
                                 <h3>RESEARCH MUSTARD - KMS-92</h3>
@@ -261,7 +261,7 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-watermelon-slice-033.jpg">
+                                <img src="images/hy-watermelon–slice-033.jpg">
                             </div>
                             <div class="team-desc">
                                 <h3>HY. WATERMELON - SLICE-033</h3>
@@ -277,7 +277,7 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-watermelon-black-max.jpg">
+                                <img src="images/hy-watermelon–black-max.jpg">
                             </div>
                             <div class="team-desc">
                                 <h3>HY. WATERMELON - BLACK MAX</h3>
@@ -294,7 +294,7 @@
                     <div class="col-lg-6">
                         <div class="team-member">
                             <div class="team-image">
-                                <img src="images/hy-pumpkin- kph-708.jpg">
+                                <img src="images/hy-pumpkin– kph-708.jpg">
                             </div>
                             <div class="team-desc">
                                 <h3>HY. PUMPKIN - KPH-708</h3>
